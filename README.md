@@ -21,9 +21,9 @@ This project demonstrates proficiency in **Object-Oriented Programming (OOP)** a
 * **IDE:** Eclipse
 
 ## 📸 Screenshots
-<img width="1470" height="956" alt="Ekran Resmi 2026-01-16 17 22 52" src="https://github.com/user-attachments/assets/99476766-9e8e-4e43-8831-b98d07039854" />
+<img width="1470" height="850" alt="Ekran Resmi 2026-01-16 17 22 52" src="https://github.com/user-attachments/assets/99476766-9e8e-4e43-8831-b98d07039854" />
 
-<img width="1470" height="956" alt="Ekran Resmi 2026-01-16 17 23 03" src="https://github.com/user-attachments/assets/f3c3a71c-6be7-4780-93ce-17b017440835" />
+<img width="1470" height="850" alt="Ekran Resmi 2026-01-16 17 23 03" src="https://github.com/user-attachments/assets/f3c3a71c-6be7-4780-93ce-17b017440835" />
 
 <img width="1470" height="956" alt="Ekran Resmi 2026-01-16 17 23 22" src="https://github.com/user-attachments/assets/216788fe-e441-4048-8b63-f49d77dd27cb" />
 
